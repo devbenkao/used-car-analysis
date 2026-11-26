@@ -9,7 +9,7 @@ is provided under the MIT License.
 
 ## Original License Notice
 
-# MIT License
+### MIT License
 
 Copyright (c) 2026 John Paul Helveston
 
